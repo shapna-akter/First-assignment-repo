@@ -166,6 +166,7 @@ p{
     display: flex;
     margin-top: 30px;
     background-color: #FFF4D6;
+    padding: 50px 100px;
 }
 .form-section input{
     padding: 8px 15px;
@@ -178,7 +179,6 @@ p{
 .form-section a{
     padding: 6px 15px;
 }
-
 footer{
     background: #000;
     text-align: center;
