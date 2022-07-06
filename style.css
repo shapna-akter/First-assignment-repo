@@ -175,6 +175,7 @@ p{
     color: #7D7D7D;
     border: none;
     margin-right: -5px;
+    border-radius: 5px;
 }
 .form-section a{
     padding: 7px 15px;
