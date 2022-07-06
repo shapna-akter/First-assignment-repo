@@ -23,6 +23,8 @@ p{
     font-size: 16px;
     color: #7D7D7D;
     line-height: 1.5;
+    font-weight: 700;
+    margin-bottom: 20px;
 }
 #top-banner-section{
     background-image: url(images/donation9.jpg);
@@ -61,13 +63,6 @@ p{
     border-radius: 5px;
     font-size: 18px;
     font-weight: 900;
-}
-.donate-text p{
-    width: 50%;
-    margin: auto;
-    margin-bottom: 20px;
-    font-weight: 700;
-    text-align: center;
 }
 .amount{
     display: flex;
@@ -118,13 +113,6 @@ p{
 .card-three{
     background: #FFF4D6;
 }
-#gallery-section p{
-    width: 50%;
-    margin: auto;
-    margin-bottom: 20px;
-    font-weight: 700;
-    text-align: center;
-}
 #gallery-section span{
     color: blue;
 }
@@ -158,8 +146,6 @@ p{
 #update p{
     width: 50%;
     margin: auto;
-    margin-bottom: 20px;
-    font-weight: 700;
     text-align: center;
 }
 .form-section{
