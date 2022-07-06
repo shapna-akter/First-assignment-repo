@@ -118,6 +118,43 @@ p{
 .card-three{
     background: #FFF4D6;
 }
+#gallery-section p{
+    width: 50%;
+    margin: auto;
+    margin-bottom: 20px;
+    font-weight: 700;
+    text-align: center;
+}
+#gallery-section span{
+    color: blue;
+}
+.gallery{
+    display: flex;
+}
+.gallery-list{
+    display: flex;
+    list-style: none;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.gallery-list li{
+    padding: 10px 15px;
+}
+.gallery-list li a{
+    color: #000;
+    padding: 10px 15px;
+    font-weight: 700;
+}
+.gallery-list .all{
+    color: blue;
+}
+.gallery-image{
+    padding: 5px;
+}
+.gallery-image img{
+    width: 100%;
+    height: 100%;
+}
 #update p{
     width: 50%;
     margin: auto;
@@ -136,4 +173,17 @@ p{
 }
 .form-section a{
     padding: 8px 15px;
+}
+
+footer{
+    background: #000;
+    text-align: center;
+    padding: 20px;
+}
+footer p{
+    color: white;
+}
+footer h4{
+    color: palevioletred;
+    padding: 20px;
 }
