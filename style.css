@@ -186,10 +186,16 @@ footer{
     text-align: center;
     padding: 20px;
 }
-footer p{
-    color: white;
-}
 footer h4{
     color: palevioletred;
     padding: 20px;
+    font-size: 30px;
+    font-family: 'Libre Baskerville', serif;
+}
+footer small{
+    color: #fff;
+    font-size: 12px;
+}
+footer p{
+    margin-top: 20px;
 }
