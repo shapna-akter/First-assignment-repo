@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 100px 0;
+}
+h2{
+    font-size: 30px;
+    text-transform: capitalize;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-align: center;
+}
+p{
+    font-size: 16px;
+    color: #7D7D7D;
+    line-height: 1.5;
+}
+#top-banner-section{
+    background-image: url(images/donation9.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-align: center;
+    margin: 0;
+}
+.top-banner-text h1{
+    font-size: 50px;
+    text-transform: capitalize;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.top-banner-text p{
+    width: 50%;
+    margin: auto;
+    color: #FFF;
+    font-weight: 400;
+}
+.donate{
+    margin-top: 50px;
+}
+.donate-btn{
+    background: #FF5959;
+    color: #fff;
+    padding: 15px 20px;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: 900;
+}
+.donate-text p{
+    width: 50%;
+    margin: auto;
+    margin-bottom: 20px;
+    font-weight: 700;
+    text-align: center;
+}
+.amount{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px;
+}
+.donation{
+    margin: 10px;
+    background: #FAFAFA;
+    padding: 40px 30px;
+    font-size: 25px;
+    color: #707070;
+}
+.second-donation{
+    background: #FFEEEE;
+    border: 2px solid red;
+    color: red;
+}
+.other-amount p{
+    font-size: 14px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+.card-section{
+    display: flex;
+    margin-top: 30px;
+}
+.card{
+    padding: 50px 20px;
+    margin: 10px;
+}
+.card img{
+    width: 40px;
+    margin-bottom: 20px;
+}
+.card h3{
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+.card-one{
+    background: #EDF5F6;
+}
+.card-two{
+    background: #FFEEEE;
+}
+.card-three{
+    background: #FFF4D6;
+}
+#update p{
+    width: 50%;
+    margin: auto;
+    margin-bottom: 20px;
+    font-weight: 700;
+    text-align: center;
+}
+.form-section{
+    margin-top: 30px;
+    background-color: #FFF4D6;
+}
+.form-section input{
+    padding: 8px 15px;
+    font-size: 16px;
+    background-color: #D9D9D9;
+}
+.form-section a{
+    padding: 8px 15px;
+}
