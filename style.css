@@ -27,7 +27,7 @@ p{
     margin-bottom: 20px;
 }
 #top-banner-section{
-    background-image: url(images/donation9.jpg);
+    background-image: linear-gradient(rgba(255, 255, 255, 0), rgb(0, 0, 0)) , url(images/donation9.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
